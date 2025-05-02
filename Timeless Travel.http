@@ -1,0 +1,6 @@
+@Timeless_Travel_HostAddress = http://localhost:5108
+
+GET {{Timeless_Travel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
